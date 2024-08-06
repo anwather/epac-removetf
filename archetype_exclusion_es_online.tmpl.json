@@ -1,8 +1,6 @@
 {
-    "exclude_es_management": {
-        "policy_assignments": [
-            "Deploy-Log-Analytics"
-        ],
+    "exclude_es_online": {
+        "policy_assignments": [],
         "policy_definitions": [],
         "policy_set_definitions": [],
         "role_definitions": [],
