@@ -1,5 +1,5 @@
 {
-  "excludes_es_connectivity": {
+  "exclude_es_connectivity": {
     "policy_assignments": [
       "Enable-DDoS-VNET"
     ],
