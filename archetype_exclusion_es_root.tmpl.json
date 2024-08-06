@@ -224,13 +224,7 @@
       "Enforce-Guardrails-Synapse",
       "Enforce-Guardrails-VirtualDesktop"
     ],
-    "role_definitions": [
-      "Network-Subnet-Contributor",
-      "Application-Owners",
-      "Network-Management",
-      "Security-Operations",
-      "Subscription-Owner"
-    ],
+    "role_definitions": [],
     "archetype_config": {
       "parameters": {},
       "access_control": {}
